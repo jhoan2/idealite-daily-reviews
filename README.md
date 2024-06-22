@@ -15,3 +15,4 @@ Following command will open frames debugger and also run the app in development 
 ```sh
 npm run dev
 ```
+# idealite-daily-reviews
