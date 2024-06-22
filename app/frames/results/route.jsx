@@ -1,4 +1,4 @@
-import { frames } from '../route'
+import { frames } from "../frames";
 import { Button } from "frames.js/next";
 import { redirect } from "frames.js/core";
 import { PinataFDK } from "pinata-fdk";

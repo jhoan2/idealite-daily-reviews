@@ -1,4 +1,4 @@
-import { frames } from '../route'
+import { frames } from "../frames";
 import { Button } from "frames.js/next";
 
 export const POST = frames(async (ctx) => {
